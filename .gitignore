@@ -1,0 +1,5 @@
+.kdev4/
+pic.png
+pic2.png
+build/*
+.gradle/*
